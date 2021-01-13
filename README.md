@@ -2,8 +2,9 @@
 
 Problems:
 
+
 | ID | Question | Difficulty | Pattern | Solution |
-|---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | 217 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) | Easy | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | | |
 | 488 | [All Nums Disappeared in Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | | |
