@@ -1,2 +1,9 @@
 # leetcode-grind
-Leetcode
+
+Problems:
+
+| ID | Title | Solution | Write-up |
+| --- | --- | --- | --- |
+| 217 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) | | |
+
+
